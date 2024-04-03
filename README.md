@@ -65,8 +65,8 @@ def SimpleHillClimbing():
 SimpleHillClimbing()
 ```
 
-**Developed By: ROHIT JAIN D**<br>
-**Register No: 212222230120**
+**Developed By: Thiyagarajan A**<br>
+**Register No: 212222240110**
 
 <table>
 <tr>
